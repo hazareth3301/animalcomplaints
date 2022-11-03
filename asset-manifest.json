@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/animalcomplaints/static/css/main.4d533c1c.css",
+    "main.css": "/animalcomplaints/static/css/main.75414d91.css",
     "main.js": "/animalcomplaints/static/js/main.273b5fc2.js",
     "static/js/787.fd1e9e61.chunk.js": "/animalcomplaints/static/js/787.fd1e9e61.chunk.js",
-    "static/media/brisbane.jpg": "/animalcomplaints/static/media/brisbane.be49f4401453eb47f916.jpg",
+    "static/media/brisbane.jpg": "/animalcomplaints/static/media/brisbane.5462a86164f6810a081b.jpg",
     "index.html": "/animalcomplaints/index.html",
-    "main.4d533c1c.css.map": "/animalcomplaints/static/css/main.4d533c1c.css.map",
+    "main.75414d91.css.map": "/animalcomplaints/static/css/main.75414d91.css.map",
     "main.273b5fc2.js.map": "/animalcomplaints/static/js/main.273b5fc2.js.map",
     "787.fd1e9e61.chunk.js.map": "/animalcomplaints/static/js/787.fd1e9e61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d533c1c.css",
+    "static/css/main.75414d91.css",
     "static/js/main.273b5fc2.js"
   ]
 }
