@@ -1,0 +1,21 @@
+.date-range-container {
+	background: #eee;
+	padding-top: 2rem;
+	h2 {
+		font-size: 1.7rem;
+		margin: 0;
+	}
+	select {
+		background: rgba($color3, 0.1);
+		border: 2px solid $color3;
+		border-radius: 10px;
+		cursor: pointer;
+		font-size: 1.3rem;
+		margin-top: 0.5rem;
+		padding: 0.5rem;
+		@include box-shadow();
+		option {
+			border-radius: 10px;
+		}
+	}
+}

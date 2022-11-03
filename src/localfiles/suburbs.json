@@ -1,0 +1,947 @@
+[
+	{
+		"Place": "Acacia Ridge",
+		"Postcode": 4110,
+		"Electorate": "MORETON"
+	},
+	{
+		"Place": "Albion",
+		"Postcode": 3020,
+		"Electorate": "FRASER"
+	},
+	{
+		"Place": "Alderley",
+		"Postcode": 4051,
+		"Electorate": "BRISBANE"
+	},
+	{
+		"Place": "Algester",
+		"Postcode": 4115,
+		"Electorate": "RANKIN"
+	},
+	{
+		"Place": "Annerley",
+		"Postcode": 4103,
+		"Electorate": "MORETON"
+	},
+	{
+		"Place": "Anstead",
+		"Postcode": 4070,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Archerfield",
+		"Postcode": 4108,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Ascot",
+		"Postcode": 4007,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Ashgrove",
+		"Postcode": 4060,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Aspley",
+		"Postcode": 4034,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Auchenflower",
+		"Postcode": 4066,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Bald Hills",
+		"Postcode": 4036,
+		"Electorate": "PETRIE"
+	  },
+	  {
+		"Place": "Balmoral",
+		"Postcode": 4171,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Banks Creek",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Banyo",
+		"Postcode": 4014,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Bardon",
+		"Postcode": 4065,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Bellbowrie",
+		"Postcode": 4070,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Belmont",
+		"Postcode": 4153,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Boondall",
+		"Postcode": 4034,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Bowen Hills",
+		"Postcode": 4006,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Bracken Ridge",
+		"Postcode": 4017,
+		"Electorate": "PETRIE"
+	  },
+	  {
+		"Place": "Bridgeman Downs",
+		"Postcode": 4035,
+		"Electorate": "DICKSON"
+	  },
+	  {
+		"Place": "Brighton",
+		"Postcode": 4017,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Brisbane City",
+		"Postcode": 4000,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Brookfield",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Bulimba",
+		"Postcode": 4171,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Burbank",
+		"Postcode": 4156,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Calamvale",
+		"Postcode": 4116,
+		"Electorate": "RANKIN"
+	  },
+	  {
+		"Place": "Camp Hill",
+		"Postcode": 4152,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Cannon Hill",
+		"Postcode": 4170,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Carina",
+		"Postcode": 4152,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Carina Heights",
+		"Postcode": 4152,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Carindale",
+		"Postcode": 4152,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Carseldine",
+		"Postcode": 4034,
+		"Electorate": "PETRIE"
+	  },
+	  {
+		"Place": "Chandler",
+		"Postcode": 4155,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Chapel Hill",
+		"Postcode": 5153,
+		"Electorate": "MAYO"
+	  },
+	  {
+		"Place": "Chelmer",
+		"Postcode": 4068,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Chermside",
+		"Postcode": 4032,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Chermside West",
+		"Postcode": 4032,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Chuwar",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Clayfield",
+		"Postcode": 4011,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Coopers Plains",
+		"Postcode": 4108,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Coorparoo",
+		"Postcode": 4151,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Corinda",
+		"Postcode": 4075,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Darra",
+		"Postcode": 4076,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Deagon",
+		"Postcode": 4017,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Doolandella",
+		"Postcode": 4077,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Drewvale",
+		"Postcode": 4116,
+		"Electorate": "RANKIN"
+	  },
+	  {
+		"Place": "Durack",
+		"Postcode": 4077,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Dutton Park",
+		"Postcode": 4102,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Eagle Farm",
+		"Postcode": 4009,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "East Brisbane",
+		"Postcode": 4169,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Eight Mile Plains",
+		"Postcode": 4113,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Ellen Grove",
+		"Postcode": 4078,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "England Creek",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Enoggera",
+		"Postcode": 4051,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Enoggera Reservoir",
+		"Postcode": 4520,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Everton Park",
+		"Postcode": 4053,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Fairfield",
+		"Postcode": 4103,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Ferny Grove",
+		"Postcode": 4055,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Fig Tree Pocket",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Fitzgibbon",
+		"Postcode": 4018,
+		"Electorate": "PETRIE"
+	  },
+	  {
+		"Place": "Forest Lake",
+		"Postcode": 4078,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Fortitude Valley",
+		"Postcode": 4006,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Gaythorne",
+		"Postcode": 4051,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Geebung",
+		"Postcode": 4034,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Gordon Park",
+		"Postcode": 4031,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Graceville",
+		"Postcode": 4075,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Grange",
+		"Postcode": 4051,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Greenslopes",
+		"Postcode": 4120,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Gumdale",
+		"Postcode": 4154,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Hamilton",
+		"Postcode": 4007,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Hawthorne",
+		"Postcode": 4171,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Heathwood",
+		"Postcode": 4110,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Hemmant",
+		"Postcode": 4174,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Hendra",
+		"Postcode": 4011,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Herston",
+		"Postcode": 4006,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Highgate Hill",
+		"Postcode": 4101,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Holland Park",
+		"Postcode": 4121,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Holland Park West",
+		"Postcode": 4121,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Inala",
+		"Postcode": 4077,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Indooroopilly",
+		"Postcode": 4068,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Jamboree Heights",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Jindalee",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Kalinga",
+		"Postcode": 4030,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Kangaroo Point",
+		"Postcode": 4169,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Karana Downs",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Karawatha",
+		"Postcode": 4117,
+		"Electorate": "RANKIN"
+	  },
+	  {
+		"Place": "Kedron",
+		"Postcode": 4031,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Kelvin Grove",
+		"Postcode": 4059,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Kenmore",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Kenmore Hills",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Keperra",
+		"Postcode": 4054,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Kholo",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Kuraby",
+		"Postcode": 4112,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Lake Manchester",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Larapinta",
+		"Postcode": 4110,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Lota",
+		"Postcode": 4179,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Lutwyche",
+		"Postcode": 4030,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Lytton",
+		"Postcode": 4178,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Macgregor",
+		"Postcode": 4109,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Mackenzie",
+		"Postcode": 4156,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Manly",
+		"Postcode": 4179,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Manly West",
+		"Postcode": 4179,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Mansfield",
+		"Postcode": 4122,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Mcdowall",
+		"Postcode": 4053,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Middle Park",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Milton",
+		"Postcode": 4064,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Mitchelton",
+		"Postcode": 4053,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Moggill",
+		"Postcode": 4070,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Moorooka",
+		"Postcode": 4105,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Morningside",
+		"Postcode": 4170,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Mount Coot-tha",
+		"Postcode": 4066,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Mount Crosby",
+		"Postcode": 4306,
+		"Electorate": "BLAIR"
+	  },
+	  {
+		"Place": "Mount Gravatt",
+		"Postcode": 4122,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Mount Gravatt East",
+		"Postcode": 4122,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Mount Ommaney",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Murarrie",
+		"Postcode": 4172,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Nathan",
+		"Postcode": 4111,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "New Farm",
+		"Postcode": 4005,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Newmarket",
+		"Postcode": 4051,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Newstead",
+		"Postcode": 4006,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Norman Park",
+		"Postcode": 4170,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Northgate",
+		"Postcode": 4013,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Nudgee",
+		"Postcode": 4014,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Nudgee Beach",
+		"Postcode": 4014,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Nundah",
+		"Postcode": 4012,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Oxley",
+		"Postcode": 4075,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Paddington",
+		"Postcode": 4064,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Pallara",
+		"Postcode": 4110,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Parkinson",
+		"Postcode": 4115,
+		"Electorate": "RANKIN"
+	  },
+	  {
+		"Place": "Petrie Terrace",
+		"Postcode": 4000,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Pinjarra Hills",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Pinkenba",
+		"Postcode": 4008,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Port Of Brisbane",
+		"Postcode": 4178,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Pullenvale",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Ransome",
+		"Postcode": 4154,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Red Hill",
+		"Postcode": 4059,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Richlands",
+		"Postcode": 4077,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Riverhills",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Robertson",
+		"Postcode": 4109,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Rochedale",
+		"Postcode": 4123,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Rocklea",
+		"Postcode": 4106,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Runcorn",
+		"Postcode": 4113,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Salisbury",
+		"Postcode": 4107,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Sandgate",
+		"Postcode": 4017,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Seven Hills",
+		"Postcode": 4170,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Seventeen Mile Rocks",
+		"Postcode": 4073,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Sherwood",
+		"Postcode": 4075,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Shorncliffe",
+		"Postcode": 4017,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Sinnamon Park",
+		"Postcode": 4073,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "South Brisbane",
+		"Postcode": 4101,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Spring Hill",
+		"Postcode": 4000,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "St Lucia",
+		"Postcode": 4067,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Stafford",
+		"Postcode": 4053,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Stafford Heights",
+		"Postcode": 4053,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Stones Corner",
+		"Postcode": 4120,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Stretton",
+		"Postcode": 4116,
+		"Electorate": "RANKIN"
+	  },
+	  {
+		"Place": "Sumner",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Sunnybank",
+		"Postcode": 4109,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Sunnybank Hills",
+		"Postcode": 4109,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Taigum",
+		"Postcode": 4018,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Taringa",
+		"Postcode": 4068,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Tarragindi",
+		"Postcode": 4121,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Teneriffe",
+		"Postcode": 4005,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Tennyson",
+		"Postcode": 4105,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "The Gap",
+		"Postcode": 4061,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Tingalpa",
+		"Postcode": 4173,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Toowong",
+		"Postcode": 4066,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Upper Brookfield",
+		"Postcode": 4069,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Upper Kedron",
+		"Postcode": 4055,
+		"Electorate": "RYAN"
+	  },
+	  {
+		"Place": "Upper Mount Gravatt",
+		"Postcode": 4122,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Virginia",
+		"Postcode": 4014,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "Wacol",
+		"Postcode": 4076,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Wakerley",
+		"Postcode": 4154,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Wavell Heights",
+		"Postcode": 4012,
+		"Electorate": "LILLEY"
+	  },
+	  {
+		"Place": "West End",
+		"Postcode": 4810,
+		"Electorate": "HERBERT"
+	  },
+	  {
+		"Place": "Westlake",
+		"Postcode": 4074,
+		"Electorate": "OXLEY"
+	  },
+	  {
+		"Place": "Willawong",
+		"Postcode": 4110,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Wilston",
+		"Postcode": 4051,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Windsor",
+		"Postcode": 4030,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Wishart",
+		"Postcode": 4122,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Woolloongabba",
+		"Postcode": 4102,
+		"Electorate": "GRIFFITH"
+	  },
+	  {
+		"Place": "Wooloowin",
+		"Postcode": 4030,
+		"Electorate": "BRISBANE"
+	  },
+	  {
+		"Place": "Wynnum",
+		"Postcode": 4178,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Wynnum West",
+		"Postcode": 4178,
+		"Electorate": "BONNER"
+	  },
+	  {
+		"Place": "Yeerongpilly",
+		"Postcode": 4105,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Yeronga",
+		"Postcode": 4104,
+		"Electorate": "MORETON"
+	  },
+	  {
+		"Place": "Zillmere",
+		"Postcode": 4034,
+		"Electorate": "LILLEY"
+	  }
+]

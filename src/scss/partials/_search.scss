@@ -1,0 +1,81 @@
+#search-container {
+	background: #eee;
+	padding: 2rem 1rem 3rem 1rem;
+	text-align: center;
+	form {
+		align-items: center;
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: center;
+		input.search-input {
+			border: none;
+			border: 2px solid $color3;
+			border-radius: 20px;
+			color: rgba($text, 0.8);
+			font-size: 2rem;
+			font-family: "Quicksand", sans-serif;
+			max-width: 30rem;
+			padding: 0.5rem 1rem;
+			text-align: center;
+			width: 100%;
+			@include box-shadow();
+		}
+	}
+	.not-found {
+		background: $warning;
+		border-radius: 20px;
+		color: #fff;
+		margin: 2rem auto 0 auto;
+		padding: 0.2rem 1rem;
+		width: fit-content;
+		@include box-shadow();
+	}
+	.suburb-list-container {
+		ul {
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: center;
+			list-style: none;
+			margin: auto;
+			max-width: 850px;
+			padding: 1rem 1rem 0 1rem;
+			.suburb-button {
+				background: $color3;
+				border: 1px solid $color3;
+				border-radius: 20px;
+				font-size: 1.3rem;
+				color: #fff;
+				cursor: pointer;
+				margin: 1rem 1rem 0 1rem;
+				padding: 0.5rem 1rem;
+				transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+				@include box-shadow();
+				&:hover,
+				&:focus {
+					background: #fff;
+					color: $color3;
+				}
+			}
+			.suburb-button.isActive {
+				background: $color2;
+				border: 1px solid $color2;
+				color: $text;
+				&:hover,
+				&:focus {
+					background: #fff;
+					color: $text;
+				}
+			}
+		}
+	}
+}
+
+@include breakpoints(500px) {
+	#search-container {
+		form {
+			input.search-input {
+				font-size: 3rem;
+			}
+		}
+	}
+}
