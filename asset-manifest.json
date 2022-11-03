@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/animalcomplaints/static/css/main.9e23b6f0.css",
+    "main.js": "/animalcomplaints/static/js/main.273b5fc2.js",
+    "static/js/787.fd1e9e61.chunk.js": "/animalcomplaints/static/js/787.fd1e9e61.chunk.js",
+    "static/media/mountains.png": "/animalcomplaints/static/media/mountains.1e23030cd33a02d4fa37.png",
+    "index.html": "/animalcomplaints/index.html",
+    "main.9e23b6f0.css.map": "/animalcomplaints/static/css/main.9e23b6f0.css.map",
+    "main.273b5fc2.js.map": "/animalcomplaints/static/js/main.273b5fc2.js.map",
+    "787.fd1e9e61.chunk.js.map": "/animalcomplaints/static/js/787.fd1e9e61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e23b6f0.css",
+    "static/js/main.273b5fc2.js"
+  ]
+}
